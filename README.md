@@ -82,10 +82,9 @@ char* do_recaptcha2(const Mat &img,  char *formula, char *result, double low_thr
 ```
 
 ##版权声明##
-Copyright (c) 黄相全，对于代码中可能出现的一切风险请自行解决，技术问题可以咨询[qyou@nlpr.ia.ac.cn](mailto:qyou@nlpr.ia.ac.cn)
+对于代码中可能出现的一切风险请自行解决，技术问题可以咨询[qyou@nlpr.ia.ac.cn](mailto:qyou@nlpr.ia.ac.cn)
 
----
-6/15/2015 10:35:18 AM 
+ 
 
 
 
