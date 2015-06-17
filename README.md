@@ -81,8 +81,7 @@ int net_read_simple(CvConvNet *pNet, const Mat &org, vector<Point> contour, Mat 
 char* do_recaptcha2(const Mat &img,  char *formula, char *result, double low_thres_val, double high_thres_val)
 ```
 
-##版权声明##
-对于代码中可能出现的一切风险请自行解决，技术问题可以咨询[qyou@nlpr.ia.ac.cn](mailto:qyou@nlpr.ia.ac.cn)
+
 
  
 
